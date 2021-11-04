@@ -30,9 +30,10 @@ h1 {
 }
 
 /* Create four equal columns that floats next to each other */
-.column {
+.columnf {
   float: left;
   width: 25%;
+height: 550px;
 
 }
 
